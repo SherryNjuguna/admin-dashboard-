@@ -164,18 +164,7 @@
       position: relative;
     }
 
-    .notification-box,
-    .header-message-box {
-      position: relative;
-    }
-
-    .notification-box {
-      .dropdown-menu {
-        &.dropdown-menu-end {
-          transform: translate3d(0px, 60px, 0px);
-        }
-      }
-    }
+   
 
     .header-message-box {
       .dropdown-menu {
